@@ -1,0 +1,17 @@
+h1,h2,h3,h4,h5 {
+    color:brown;
+}
+pre {
+    color:rgb(12, 66, 23);
+}
+ul{
+    color:rgb(5, 16, 89);
+}
+body{
+    background-image: url(https://images6.alphacoders.com/132/1327974.png);
+}
+.gloria-hallelujah-regular {
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
